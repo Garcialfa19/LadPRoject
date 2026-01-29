@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1025239305489",
+    "project_id": "nightlifepass-66afc",
+    "storage_bucket": "nightlifepass-66afc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025239305489:android:9a882714b779540daf90b0",
+        "android_client_info": {
+          "package_name": "com.proyectolad.nightlifepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025239305489-a0jvbbdvtl1f0po4fdbb8qar86t3ko3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectolad.nightlifepass",
+            "certificate_hash": "f3346888d10c4a8427fa566d338a11cfca1184ea"
+          }
+        },
+        {
+          "client_id": "1025239305489-f280oqlbf19qjtgsm1j5sn72p0c3kqr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQkzMkBjcm59LP-CO2-23YUIzoiJV25g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025239305489-f280oqlbf19qjtgsm1j5sn72p0c3kqr4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1025239305489-2aqjg0mhdt2ft1cdqufve3cjkkeefvmm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proyectolad.nightlifepass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
